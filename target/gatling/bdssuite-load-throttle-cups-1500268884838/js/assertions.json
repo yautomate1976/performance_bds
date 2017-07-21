@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.bdsSuite_Load_throttle_CUPS",
+  "simulationId": "bdssuite-load-throttle-cups",
+  "start": 1500268884838,
+  "description": "",
+  "scenarios": ["bdsSuite_Load_throttle_CUPS"],
+  "assertions": [
+
+  ]
+}

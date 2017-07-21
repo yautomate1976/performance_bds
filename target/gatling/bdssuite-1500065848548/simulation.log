@@ -1,0 +1,24 @@
+RUN	Simulations.bdsSuite		bdssuite	1500065848548	 	2.0
+USER	corecheck	1	START	1500065849597	1500065849597
+REQUEST	corecheck	1		GetVendorCode_NZ	1500065849631	1500065850009	OK	 
+REQUEST	corecheck	1		GetVendorCode_NZ Redirect 1	1500065850079	1500065850220	OK	 
+REQUEST	corecheck	1		PostBrandInfoByNoRegion	1500065851241	1500065851349	OK	 
+REQUEST	corecheck	1		PostBrandInfoByNoRegion Redirect 1	1500065851357	1500065851510	OK	 
+REQUEST	corecheck	1		GetBrandInfoNZ	1500065852514	1500065852622	OK	 
+REQUEST	corecheck	1		GetBrandInfoNZ Redirect 1	1500065852623	1500065852760	OK	 
+REQUEST	corecheck	1		GetBrandInfoByRegionQuery	1500065853754	1500065853885	OK	 
+REQUEST	corecheck	1		GetBrandInfoByRegionDefinitionQuery	1500065854894	1500065855017	OK	 
+REQUEST	corecheck	1		GetBrandNameWithVendorCodeNZ	1500065856004	1500065856125	OK	 
+REQUEST	corecheck	1		GetMappedFullBrandNameByQueryName	1500065857134	1500065857244	OK	 
+REQUEST	corecheck	1		GetMappedBrandNameByVendorCode	1500065858247	1500065858348	OK	 
+REQUEST	corecheck	1		GetMappedBrandNameByVendorCode Redirect 1	1500065858349	1500065858459	OK	 
+REQUEST	corecheck	1		GetMappedBrandNameByBrandName	1500065859456	1500065859567	OK	 
+REQUEST	corecheck	1		POSTBrandsNZ	1500065860576	1500065860678	OK	 
+REQUEST	corecheck	1		POSTBrandsNZ Redirect 1	1500065860679	1500065860793	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionExactMatch	1500065861786	1500065861888	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionExactMatch Redirect 1	1500065861888	1500065862006	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionReverseMatch	1500065863016	1500065863117	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionReverseMatch Redirect 1	1500065863117	1500065863232	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionMatchNotFoundFreeDefinitionNotFound	1500065864225	1500065864325	OK	 
+REQUEST	corecheck	1		PostBrandInfoBySpecificRegionMatchNotFoundFreeDefinitionNotFound Redirect 1	1500065864326	1500065864440	OK	 
+USER	corecheck	1	END	1500065849597	1500065864444

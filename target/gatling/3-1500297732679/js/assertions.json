@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.bdsSuite_Load_throttle_RPS",
+  "simulationId": "3",
+  "start": 1500297732679,
+  "description": "",
+  "scenarios": ["bdsSuite_Load_throttle_RPS"],
+  "assertions": [
+
+  ]
+}

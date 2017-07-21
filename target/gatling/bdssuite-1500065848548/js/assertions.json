@@ -1,0 +1,10 @@
+{
+  "simulation": "Simulations.bdsSuite",
+  "simulationId": "bdssuite",
+  "start": 1500065848548,
+  "description": "",
+  "scenarios": ["corecheck"],
+  "assertions": [
+
+  ]
+}

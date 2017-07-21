@@ -1,0 +1,12 @@
+[
+  {
+    "environments":{
+      "AWS":[
+        {
+          "baseUrl":"http://bdsdev.hushaboom.concurasp.com",
+          "Port":""
+        }
+      ]
+    }
+  }
+]

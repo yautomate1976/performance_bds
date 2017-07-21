@@ -1,0 +1,1097 @@
+{
+  "type": "GROUP",
+"name": "Global Information",
+"path": "",
+"pathFormatted": "group_missing-name-b06d1",
+"stats": {
+    "name": "Global Information",
+    "numberOfRequests": {
+        "total": 40575,
+        "ok": 0,
+        "ko": 40575
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2018,
+        "ok": 0,
+        "ko": 2018
+    },
+    "meanResponseTime": {
+        "total": 29,
+        "ok": 0,
+        "ko": 29
+    },
+    "standardDeviation": {
+        "total": 177,
+        "ok": 0,
+        "ko": 177
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1126,
+        "ok": 0,
+        "ko": 1126
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 40575,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 45.083333333333336,
+        "ok": 0,
+        "ko": 45.083333333333336
+    }
+},
+"contents": {
+"req_getvendorcode-n-bd0b5": {
+        "type": "REQUEST",
+        "name": "GetVendorCode_NZ",
+"path": "GetVendorCode_NZ",
+"pathFormatted": "req_getvendorcode-n-bd0b5",
+"stats": {
+    "name": "GetVendorCode_NZ",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1477,
+        "ok": 0,
+        "ko": 1477
+    },
+    "meanResponseTime": {
+        "total": 40,
+        "ok": 0,
+        "ko": 40
+    },
+    "standardDeviation": {
+        "total": 190,
+        "ok": 0,
+        "ko": 190
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1092,
+        "ok": 0,
+        "ko": 1092
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_postbrandinfoby-ba184": {
+        "type": "REQUEST",
+        "name": "PostBrandInfoByNoRegion",
+"path": "PostBrandInfoByNoRegion",
+"pathFormatted": "req_postbrandinfoby-ba184",
+"stats": {
+    "name": "PostBrandInfoByNoRegion",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1514,
+        "ok": 0,
+        "ko": 1514
+    },
+    "meanResponseTime": {
+        "total": 26,
+        "ok": 0,
+        "ko": 26
+    },
+    "standardDeviation": {
+        "total": 152,
+        "ok": 0,
+        "ko": 152
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 978,
+        "ok": 0,
+        "ko": 978
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getbrandinfonz-a8f2b": {
+        "type": "REQUEST",
+        "name": "GetBrandInfoNZ",
+"path": "GetBrandInfoNZ",
+"pathFormatted": "req_getbrandinfonz-a8f2b",
+"stats": {
+    "name": "GetBrandInfoNZ",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1340,
+        "ok": 0,
+        "ko": 1340
+    },
+    "meanResponseTime": {
+        "total": 25,
+        "ok": 0,
+        "ko": 25
+    },
+    "standardDeviation": {
+        "total": 154,
+        "ok": 0,
+        "ko": 154
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1023,
+        "ok": 0,
+        "ko": 1023
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getbrandinfobyr-f14b2": {
+        "type": "REQUEST",
+        "name": "GetBrandInfoByRegionQuery",
+"path": "GetBrandInfoByRegionQuery",
+"pathFormatted": "req_getbrandinfobyr-f14b2",
+"stats": {
+    "name": "GetBrandInfoByRegionQuery",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1514,
+        "ok": 0,
+        "ko": 1514
+    },
+    "meanResponseTime": {
+        "total": 29,
+        "ok": 0,
+        "ko": 29
+    },
+    "standardDeviation": {
+        "total": 177,
+        "ok": 0,
+        "ko": 177
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1169,
+        "ok": 0,
+        "ko": 1169
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getbrandinfobyr-657e6": {
+        "type": "REQUEST",
+        "name": "GetBrandInfoByRegionDefinitionQuery",
+"path": "GetBrandInfoByRegionDefinitionQuery",
+"pathFormatted": "req_getbrandinfobyr-657e6",
+"stats": {
+    "name": "GetBrandInfoByRegionDefinitionQuery",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1463,
+        "ok": 0,
+        "ko": 1463
+    },
+    "meanResponseTime": {
+        "total": 28,
+        "ok": 0,
+        "ko": 28
+    },
+    "standardDeviation": {
+        "total": 178,
+        "ok": 0,
+        "ko": 178
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1180,
+        "ok": 0,
+        "ko": 1180
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getbrandnamewit-204bb": {
+        "type": "REQUEST",
+        "name": "GetBrandNameWithVendorCodeNZ",
+"path": "GetBrandNameWithVendorCodeNZ",
+"pathFormatted": "req_getbrandnamewit-204bb",
+"stats": {
+    "name": "GetBrandNameWithVendorCodeNZ",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1375,
+        "ok": 0,
+        "ko": 1375
+    },
+    "meanResponseTime": {
+        "total": 26,
+        "ok": 0,
+        "ko": 26
+    },
+    "standardDeviation": {
+        "total": 168,
+        "ok": 0,
+        "ko": 168
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1125,
+        "ok": 0,
+        "ko": 1125
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getmappedfullbr-e256f": {
+        "type": "REQUEST",
+        "name": "GetMappedFullBrandNameByQueryName",
+"path": "GetMappedFullBrandNameByQueryName",
+"pathFormatted": "req_getmappedfullbr-e256f",
+"stats": {
+    "name": "GetMappedFullBrandNameByQueryName",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1274,
+        "ok": 0,
+        "ko": 1274
+    },
+    "meanResponseTime": {
+        "total": 22,
+        "ok": 0,
+        "ko": 22
+    },
+    "standardDeviation": {
+        "total": 149,
+        "ok": 0,
+        "ko": 149
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1044,
+        "ok": 0,
+        "ko": 1044
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getmappedbrandn-948fb": {
+        "type": "REQUEST",
+        "name": "GetMappedBrandNameByVendorCode",
+"path": "GetMappedBrandNameByVendorCode",
+"pathFormatted": "req_getmappedbrandn-948fb",
+"stats": {
+    "name": "GetMappedBrandNameByVendorCode",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1259,
+        "ok": 0,
+        "ko": 1259
+    },
+    "meanResponseTime": {
+        "total": 20,
+        "ok": 0,
+        "ko": 20
+    },
+    "standardDeviation": {
+        "total": 140,
+        "ok": 0,
+        "ko": 140
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 977,
+        "ok": 0,
+        "ko": 977
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_getmappedbrandn-3dda3": {
+        "type": "REQUEST",
+        "name": "GetMappedBrandNameByBrandName",
+"path": "GetMappedBrandNameByBrandName",
+"pathFormatted": "req_getmappedbrandn-3dda3",
+"stats": {
+    "name": "GetMappedBrandNameByBrandName",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1603,
+        "ok": 0,
+        "ko": 1603
+    },
+    "meanResponseTime": {
+        "total": 24,
+        "ok": 0,
+        "ko": 24
+    },
+    "standardDeviation": {
+        "total": 163,
+        "ok": 0,
+        "ko": 163
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1042,
+        "ok": 0,
+        "ko": 1042
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_postbrandsnz-1fcd4": {
+        "type": "REQUEST",
+        "name": "POSTBrandsNZ",
+"path": "POSTBrandsNZ",
+"pathFormatted": "req_postbrandsnz-1fcd4",
+"stats": {
+    "name": "POSTBrandsNZ",
+    "numberOfRequests": {
+        "total": 3600,
+        "ok": 0,
+        "ko": 3600
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2018,
+        "ok": 0,
+        "ko": 2018
+    },
+    "meanResponseTime": {
+        "total": 37,
+        "ok": 0,
+        "ko": 37
+    },
+    "standardDeviation": {
+        "total": 216,
+        "ok": 0,
+        "ko": 216
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1269,
+        "ok": 0,
+        "ko": 1269
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3600,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 4.0,
+        "ok": 0,
+        "ko": 4.0
+    }
+}
+    },"req_postbrandinfoby-ce5d6": {
+        "type": "REQUEST",
+        "name": "PostBrandInfoBySpecificRegionExactMatch",
+"path": "PostBrandInfoBySpecificRegionExactMatch",
+"pathFormatted": "req_postbrandinfoby-ce5d6",
+"stats": {
+    "name": "PostBrandInfoBySpecificRegionExactMatch",
+    "numberOfRequests": {
+        "total": 3331,
+        "ok": 0,
+        "ko": 3331
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1963,
+        "ok": 0,
+        "ko": 1963
+    },
+    "meanResponseTime": {
+        "total": 41,
+        "ok": 0,
+        "ko": 41
+    },
+    "standardDeviation": {
+        "total": 219,
+        "ok": 0,
+        "ko": 219
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1283,
+        "ok": 0,
+        "ko": 1283
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 3331,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 3.701111111111111,
+        "ok": 0,
+        "ko": 3.701111111111111
+    }
+}
+    },"req_postbrandinfoby-4fd2b": {
+        "type": "REQUEST",
+        "name": "PostBrandInfoBySpecificRegionReverseMatch",
+"path": "PostBrandInfoBySpecificRegionReverseMatch",
+"pathFormatted": "req_postbrandinfoby-4fd2b",
+"stats": {
+    "name": "PostBrandInfoBySpecificRegionReverseMatch",
+    "numberOfRequests": {
+        "total": 1114,
+        "ok": 0,
+        "ko": 1114
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 2004,
+        "ok": 0,
+        "ko": 2004
+    },
+    "meanResponseTime": {
+        "total": 48,
+        "ok": 0,
+        "ko": 48
+    },
+    "standardDeviation": {
+        "total": 236,
+        "ok": 0,
+        "ko": 236
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 1,
+        "ok": 0,
+        "ko": 1
+    },
+    "percentiles4": {
+        "total": 1289,
+        "ok": 0,
+        "ko": 1289
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 1114,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 1.2377777777777779,
+        "ok": 0,
+        "ko": 1.2377777777777779
+    }
+}
+    },"req_postbrandinfoby-2bcd7": {
+        "type": "REQUEST",
+        "name": "PostBrandInfoBySpecificRegionMatchNotFoundFreeDefinitionNotFound",
+"path": "PostBrandInfoBySpecificRegionMatchNotFoundFreeDefinitionNotFound",
+"pathFormatted": "req_postbrandinfoby-2bcd7",
+"stats": {
+    "name": "PostBrandInfoBySpecificRegionMatchNotFoundFreeDefinitionNotFound",
+    "numberOfRequests": {
+        "total": 130,
+        "ok": 0,
+        "ko": 130
+    },
+    "minResponseTime": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "maxResponseTime": {
+        "total": 1436,
+        "ok": 0,
+        "ko": 1436
+    },
+    "meanResponseTime": {
+        "total": 45,
+        "ok": 0,
+        "ko": 45
+    },
+    "standardDeviation": {
+        "total": 204,
+        "ok": 0,
+        "ko": 204
+    },
+    "percentiles1": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles2": {
+        "total": 0,
+        "ok": 0,
+        "ko": 0
+    },
+    "percentiles3": {
+        "total": 194,
+        "ok": 0,
+        "ko": 194
+    },
+    "percentiles4": {
+        "total": 1070,
+        "ok": 0,
+        "ko": 1070
+    },
+    "group1": {
+        "name": "t < 800 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group2": {
+        "name": "800 ms < t < 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group3": {
+        "name": "t > 1200 ms",
+        "count": 0,
+        "percentage": 0
+    },
+    "group4": {
+        "name": "failed",
+        "count": 130,
+        "percentage": 100
+    },
+    "meanNumberOfRequestsPerSecond": {
+        "total": 0.14444444444444443,
+        "ok": 0,
+        "ko": 0.14444444444444443
+    }
+}
+    }
+}
+
+}
